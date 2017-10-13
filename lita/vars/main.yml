@@ -1,0 +1,10 @@
+---
+# vars file for lita
+lita_user: lita
+lita_group: lita
+lita_name: Lita
+lita_home: /srv/litabot
+lita_slack_token: xxxx-0000111122223333444455556666777788889
+lita_redis_srv: 127.0.0.1
+lita_redis_port: 6379
+

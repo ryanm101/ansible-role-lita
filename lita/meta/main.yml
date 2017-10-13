@@ -1,0 +1,20 @@
+galaxy_info:
+  author: Ryan McLean
+  description: Installs and configures Lita ChatBot to work with Slack
+  company: NINet.org
+  license: MIT
+
+  min_ansible_version: 1.2
+  platforms:
+  - name: EL
+    versions:
+    - all
+    - 7 
+
+  galaxy_tags:
+    - lita
+    - chatbot
+    - slack
+
+dependencies:
+  - { role: ryanm101.redis }
