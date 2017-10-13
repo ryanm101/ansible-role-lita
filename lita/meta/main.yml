@@ -16,5 +16,4 @@ galaxy_info:
     - chatbot
     - slack
 
-dependencies:
-  - { role: ryanm101.redis }
+dependencies: []
